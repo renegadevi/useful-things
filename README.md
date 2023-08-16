@@ -26,11 +26,13 @@
 - [DigitalOcean](https://www.digitalocean.com/)
 - [Hetzner](https://www.hetzner.com/)
 
-
 ## Monitoring / Error Tracking
 - [Sentry](https://sentry.io/)
 - [Highlight.io](https://www.highlight.io/)
 
+## Analytics
+- [Plausible](https://plausible.io/)
+- [Matomo](https://matomo.org/)
 
 ## Logging
 - [Axiom](https://axiom.co/)
