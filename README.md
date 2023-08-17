@@ -9,6 +9,10 @@
 - [Paddle](https://www.paddle.com/)
 - [Lemon Squeezy](https://www.lemonsqueezy.com/)
 
+## Code sandboxes
+- [StackBlitz](https://stackblitz.com/)
+- [CodeSandbox](https://codesandbox.io/)
+
 ## Database / BaaS
 - [Supabase](https://supabase.com/)
 - [Pocketbase](https://pocketbase.io/)
