@@ -1,6 +1,6 @@
 ## API 
 - [Hoppscotch](https://docs.hoppscotch.io/)
-- [Newman (Postman CLI-runner)]([https://docs.hoppscotch.io/](https://github.com/postmanlabs/newman))
+- [Newman (Postman CLI-runner)](https://github.com/postmanlabs/newman)
 
 
 ## Auth
