@@ -2,6 +2,7 @@
 
 ## Auth
 - [Clerk](https://clerk.com/)
+- [Kinde](https://kinde.com)
 - [Auth0](https://auth0.com/)
 
 ## Payment services
@@ -37,6 +38,7 @@
 ## Analytics
 - [Plausible](https://plausible.io/)
 - [Matomo](https://matomo.org/)
+- [Ackee](https://ackee.electerious.com)
 
 ## Logging
 - [Axiom](https://axiom.co/)
