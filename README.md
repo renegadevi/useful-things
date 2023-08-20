@@ -1,5 +1,3 @@
-# Useful things..
-
 ## Auth
 - [Clerk](https://clerk.com/)
 - [Kinde](https://kinde.com)
