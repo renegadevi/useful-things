@@ -1,3 +1,8 @@
+## API 
+- [Hoppscotch](https://docs.hoppscotch.io/)
+- [Newman (Postman CLI-runner)]([https://docs.hoppscotch.io/](https://github.com/postmanlabs/newman))
+
+
 ## Auth
 - [Clerk](https://clerk.com/)
 - [Kinde](https://kinde.com)
