@@ -22,11 +22,19 @@
 - [Pocketbase](https://pocketbase.io/)
 - [Neon](https://neon.tech/)
 
+## Feature Flag (A/B-testing etc.)
+- [GrowthBook](https://www.growthbook.io/)
+- [DarkLaunchy](https://launchdarkly.com/)
+- [Featbit](https://www.featbit.co/)
+- [Flagsmith](https://www.flagsmith.com/)
+
 ## PaaS
-- [Coolify](https://coolify.io/)
+- [Coolify](https://coolify.io/) 
 - [Vercel](https://vercel.com/)
 - [Render](https://render.com/)
 - [Railway](https://railway.app/)
+
+Note: Most of these can terminate your account without notice.
 
 ## Hosting platforms
 - [Linode](https://www.linode.com/)
